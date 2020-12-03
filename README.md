@@ -1,1 +1,3 @@
 # Showroom-Management-System
+We aim to create an application which is easy to access and user friendly. For this application we used the backend as MySQL to store the data which is used in the application and for the user interface, we have used PHP and HTML. Three kinds of people are able to use this application – Inventory Manager, Showroom Sales Manager and Customer. 
+Inventory Manager is tasked with ordering raw materials from the suppliers in the inventory as well as placing the order for manufacturing of cars that will be placed back in the inventory. The Showroom Sales Representative is tasked with adding the cars to the showroom. The customer is able to buy the car(s) from the showroom by reading the details of cars. 
